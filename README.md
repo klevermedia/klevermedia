@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lee. A front end developer coding out of Essex, UK.
+- 🌱 I’m currently honing my skills in JavaScript, ReactJS and Next JS
+- 🎯 Building web apps, consistently learning, exploring technologies and focusing on personal growth 
+- 📮 You can reach me at lee@klevermedia.uk
